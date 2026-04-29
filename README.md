@@ -23,16 +23,16 @@
 
 ---
 
-Get in touch
+<p><strong>Get in touch</strong></p>
 
-<a href="https://t.me/shchuroff">
-  <img align="right" src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white" />
-</a>
-
-<a href="mailto:shchurov.oleg27@gmail.com">
-  <img align="right" src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" />
-</a>
-
-<a href="mailto:shchuroffff@yandex.ru">
-  <img align="right" src="https://img.shields.io/badge/Yandex-FF0000?logo=yandex&logoColor=white" />
-</a>
+<div align="left">
+    <a href="https://t.me/shchuroff"> 
+        <img align="right" src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white" />
+    </a>
+   <a href="mailto:shchurov.oleg27@gmail.com">
+      <img align="right" src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" />
+    </a>
+  <a href="mailto:shchuroffff@yandex.ru">
+      <img align="right" src="https://img.shields.io/badge/Yandex-FF0000?logo=yandex&logoColor=white" />
+    </a>
+</div>
