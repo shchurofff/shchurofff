@@ -14,7 +14,6 @@
     Frontend Engineer focused on building scalable interfaces and data-heavy applications.
     I care about clean architecture, performance and developer experience.
   </p>
-
   <p>
     Currently working with React, Next.js and Vue. 
     Exploring UI systems, complex tables, forms and product-level frontend.
@@ -23,7 +22,9 @@
 
 ---
 
-<p><strong>Get in touch</strong></p>
+<div>
+    <p><strong>Get in touch</strong></p>
+</div>
 
 <div align="left">
     <a href="https://t.me/shchuroff"> 
