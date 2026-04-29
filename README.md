@@ -22,10 +22,6 @@
 
 ---
 
-<div>
-    <p><strong>Get in touch</strong></p>
-</div>
-
 <div align="left">
     <a href="https://t.me/shchuroff"> 
         <img align="right" src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white" />
