@@ -1,15 +1,14 @@
 ### Oleg Shchurov
 
-<div align="right">
-    <div align="right">
-      <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-      <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
-      <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
-      <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-      <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-    </div>
+<div align="left">
+    <img align="right" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+    <img align="right" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 </div>
-
+<div align="left">
+    <img align="right" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+    <img align="right" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+    <img align="right" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+</div>
 <div>
   <p>
     Frontend Engineer focused on building scalable interfaces and data-heavy applications.
@@ -24,7 +23,7 @@
 
 ---
 
-### Contact
+### Contacts
 
 <a href="https://t.me/shchuroff">
   <img align="right" src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white" />
